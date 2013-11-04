@@ -1,0 +1,5 @@
+*.ignore
+node_modules
+auth.json
+public/css
+public/vendor
